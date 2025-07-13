@@ -26,7 +26,6 @@ This Power BI dashboard analyzes the business performance of **Blinkit**, a hype
 ## 📷 Screenshots
 
 ![Dashboard Overview](Power Bi Screenshot/Screenshot 2025-07-13 175207.png)
-*Overall Performance Summary*
 
 ---
 
