@@ -7,10 +7,9 @@ This Power BI dashboard analyzes the business performance of **Blinkit**, a hype
 ## 📊 Dashboard Highlights
 
 - 📦 Total & Average Sales
-- 🕒 Avg. Delivery Time & Delays by Region
+- 🕒 Number of Items Sold and Average Rating
 - 💸 Revenue Trends
 - 📈 Yearly Sales Trend
-- 🚚 Delivery Partner Efficiency
 
 ---
 
