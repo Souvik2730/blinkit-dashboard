@@ -1,6 +1,3 @@
-# blinkit-dashboard
-Power BI dashboard to analyze Blinkit delivery performance and business KPIs.
-
 # 🚴 Blinkit Power BI Dashboard
 
 This Power BI dashboard analyzes the business performance of **Blinkit**, a hyperlocal delivery platform, focusing on delivery metrics, revenue KPIs, order trends, and customer behavior.
@@ -21,13 +18,12 @@ This Power BI dashboard analyzes the business performance of **Blinkit**, a hype
 
 | File | Description |
 |------|-------------|
-| `screenshots - Power Bi Screenshot/Screenshot 2025-07-13 175207.png |
+| `Blinkit_Dashboard.pbix` | Power BI file with all visuals, DAX, and filters |
+| `screenshots/` | Image previews of key visuals (see below) |
 
 ---
 
 ## 📷 Screenshots
-
-> 📌 Add these screenshots to the `screenshots/` folder before uploading
 
 ![Dashboard Overview](Power Bi Screenshot/Screenshot 2025-07-13 175207.png)
 *Overall Performance Summary*
